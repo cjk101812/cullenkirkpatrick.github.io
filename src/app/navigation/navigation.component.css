@@ -1,0 +1,23 @@
+.name-logo {
+  text-align: center;
+  width: 100%;
+  border-bottom: 3px solid black;
+  height: 13rem;
+}
+
+.name-logo .logo {
+  height: 9rem;
+}
+
+.name-logo .profile-pic {
+  position: fixed;
+  border-radius: 5rem;
+  width: 100%;
+  text-align: center;
+}
+
+.name-logo .profile-pic img {
+  height: 12rem;
+  border-radius: 6rem;
+  border: 5px solid black;
+}
